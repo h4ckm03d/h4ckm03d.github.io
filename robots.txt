@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://h4ckm03d.github.io/sitemap.xml 
