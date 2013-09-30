@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://h4ckm03d.github.io/blog/2013/09/30/hello-world/</loc>
+        <lastmod>2013-09-30T21:27:30+07:00</lastmod>
+    </url>
+    <url>
         <loc>http://h4ckm03d.github.io/blog/archives/</loc>
-        <lastmod>2013-09-30T21:05:19+07:00</lastmod>
+        <lastmod>2013-09-30T21:27:30+07:00</lastmod>
     </url>
     <url>
         <loc>http://h4ckm03d.github.io/blog/</loc>
-        <lastmod>2013-09-30T21:05:19+07:00</lastmod>
+        <lastmod>2013-09-30T21:27:30+07:00</lastmod>
     </url>
     <url>
         <loc>http://h4ckm03d.github.io/humans.txt</loc>
@@ -14,7 +18,7 @@
     </url>
     <url>
         <loc>http://h4ckm03d.github.io/</loc>
-        <lastmod>2013-09-30T21:05:19+07:00</lastmod>
+        <lastmod>2013-09-30T21:27:30+07:00</lastmod>
     </url>
     <url>
         <loc>http://h4ckm03d.github.io/robots.txt</loc>
